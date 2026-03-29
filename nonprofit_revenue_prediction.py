@@ -723,7 +723,4 @@ I would absolutely spend MUCH more time on the dataset before turning it in.
 
 The BIGGEST takeaway by far was just how important it is to TRULY get to know your data set. This project took me a long time because It was a hewadache organizing the data, and wrangling it into something important.
 
-Honestly this is the biggest lesson that could ever be learnt. Like when you mentioned that any time spent on PANDAS would be important, it's because pre-processing and true understanding of dataset is where the time should be spent above all things.
-
-Thank you for this semester. It was a wild ride, and I feel extremely equipped to handle my Gen AI and Soft Computing classes next semester.
 """
