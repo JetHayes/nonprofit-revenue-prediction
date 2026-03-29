@@ -161,7 +161,7 @@ MIT License. See `LICENSE` for details.
 
 ## Author
 
-**[John Cavanaugh]**
+**John Cavanaugh**
 University of Cincinnati
 
 [LinkedIn](https://www.linkedin.com/in/privacy-evangelist/) · [Email](johnthecavanaugh@gmail.com)
